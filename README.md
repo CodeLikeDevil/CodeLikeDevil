@@ -3,7 +3,7 @@
 **Full-Stack & AI Engineer** · React · Next.js · NestJS · AI Applications  
 🚀 6+ years building SaaS products and scalable web applications
 
-[LinkedIn](www.linkedin.com/in/vijay-prasath-35vip53) · [Upwork]([https://upwork.com/freelancers/YOUR_HANDLE](https://www.upwork.com/freelancers/~019252a3e3568b0e33?mp_source=share)) · [Youtube]([https://YOUR_PORTFOLIO.com](https://www.youtube.com/@CrackTechWithVijay))
+[LinkedIn](www.linkedin.com/in/vijay-prasath-35vip53) · [Upwork](https://www.upwork.com/freelancers/~019252a3e3568b0e33?mp_source=share) · [Youtube](https://www.youtube.com/@CrackTechWithVijay)
 
 ---
 
