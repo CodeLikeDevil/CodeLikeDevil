@@ -6,7 +6,6 @@ I build scalable SaaS products, AI-powered applications, and production-ready we
 
 With **6+ years of experience**, I specialize in **React, Next.js, NestJS, TypeScript, PostgreSQL, and AI integrations**. I enjoy solving complex business problems, designing scalable architectures, and turning ideas into products that users love.
 
-📍 India  
 🚀 Open to Freelance Projects, Consulting, and Full-Time Opportunities
 
 ---
